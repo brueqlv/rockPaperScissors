@@ -1,0 +1,8 @@
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\bin\Debug\rockPaperScissors.exe.config
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\bin\Debug\rockPaperScissors.exe
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\bin\Debug\rockPaperScissors.pdb
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\obj\Debug\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\obj\Debug\rockPaperScissors.exe
+C:\Users\Gundars\Documents\CSharpProjects\rockPaperScissors\rockPaperScissors\obj\Debug\rockPaperScissors.pdb
